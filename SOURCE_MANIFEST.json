@@ -1,0 +1,722 @@
+{
+  "export_date": "2026-10-29",
+  "source_root": "Original local workspace (not published)",
+  "copied_file_count": 119,
+  "note": "Public source export. Site config and real calibration excluded. Privacy replacements documented per file; original hashes are omitted for files containing site data.",
+  "copied_files": [
+    {
+      "path": "task_B/.gitignore",
+      "sha256": "bce3b16ff43c9a3e1557dc8d8ba15ae474f75826c675fd96f09b30d448132a7e",
+      "bytes": 47,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/启动操作面板.cmd",
+      "sha256": "0e1b1e9dbfff58339b30f303f99a897bf4691165aa811f9c8d5e979efb614e1d",
+      "bytes": 282,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/BRIDGE_FEEDBACK_FIX.md",
+      "sha256": "2eec0064c33a937a2b71899880657c14e6690b9bad5391fc9c47397ec549c6b9",
+      "bytes": 3749,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/capture_sync.py",
+      "sha256": "08da40af086afdc78c57802b9ecb1712bcd9166497335c3d55a46a2902a2e554",
+      "bytes": 1699,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/CONFIGURATION.md",
+      "sha256": "fb133cfa44abf962c088d898fb55fd637c9bbd394a0d453cc3f749b5a445d530",
+      "bytes": 1544,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/control_panel_action.py",
+      "sha256": "147584023880d392d6839e6508ea70f75f209a21837e03b91989b4af6c4b8b9c",
+      "bytes": 5147,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/CONTROL_PANEL_GUIDE.md",
+      "sha256": "d7bfa32949a51d39b82ae012b3290a23e08e92ac3f27cfb05e5317e69b1c005e",
+      "bytes": 3862,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/control_panel_server.py",
+      "sha256": "23a0d0bb5adbbd5461f1b62f01d070d4f655a4131101b366fbcc94a0ff03e3d7",
+      "bytes": 13269,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/core.py",
+      "sha256": "d35d6e1d4dcdbfd23ec098ba4102d0d57ca2be9ad98a630969286a38ec3f5cc2",
+      "bytes": 12090,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/diagnose_rgbd_offline.py",
+      "sha256": "d6a420b57f9a239f5f8db675130690c82a316a21c77bcab2796a8ceb81f88beb",
+      "bytes": 2390,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/FIELD_CHECKLIST.md",
+      "sha256": "5836370dfe22807858441d3fe72e85f77e6c6566a20fa7de45fa4f13b7e1f316",
+      "bytes": 1513,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/hardware.py",
+      "sha256": "8318286dce588f6125edbc079187f2b8d4fae3585f7a57022477d09ded2198de",
+      "bytes": 22753,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/IMPLEMENTATION.md",
+      "sha256": "5efde68c1534c9f1e111fe00a93432e9cc7718e8db425b5dff18f7bd30b3902b",
+      "bytes": 1713,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/make_offline_preview.py",
+      "sha256": "ccc79ca2a2be210a6dabbf4c84b6231b01c805b56c4288b436d9811e6fde24ae",
+      "bytes": 1983,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/OPERATION_GUIDE.md",
+      "sha256": "565e9f801cd3acee12a2c8b68bcb64a4729927c4f2d467c53f2ab92cd1a88004",
+      "bytes": 5883,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "task_B/paths.py",
+      "sha256": "7634cdb7ece60db4fc127035525d1c307ca40a1e80f4b51f421c374fde72360a",
+      "bytes": 286,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/README.md",
+      "sha256": "e1fed17529204c41e08a3fb8857eaf2b8e0d01f0b7ff6e04f5385612c2e38c6f",
+      "bytes": 3082,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/record_observation.py",
+      "sha256": "91861602028c955b56362570bcb9cc8553e2f988b70e74513b361b9c224e7419",
+      "bytes": 4956,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "task_B/requirements.txt",
+      "sha256": "b2c87570bac03636db6d1403b8b29b6e57078a61f6c6a3d26acbdf48765cfdbf",
+      "bytes": 122,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/RETURN_TO_OBSERVATION_GUIDE.md",
+      "sha256": "c7a20e414f346d74a4191872d324ce1fc6e259e53715e641685349f812bc43f8",
+      "bytes": 5875,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "task_B/rgbd_candidate.py",
+      "sha256": "2d9f7e748b6dfc449d01f9f4838db4e677389618267583377038f04b9ba167e4",
+      "bytes": 8240,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/run_task_b.py",
+      "sha256": "8fc55776ece7ae8dd9bc2f9a66a134ac35c779aa0bf3b2651bafe415b87d09c0",
+      "bytes": 7227,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/run_task_b.sh",
+      "sha256": "718a301b82ac0ee148b38666ddf9501fb69a1d87cde69ac14cf43633a540cc46",
+      "bytes": 233,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/sim.py",
+      "sha256": "32056803d68ef5814c0ea2007caf15a251d0c31040b03ca163ef664c48b6a8d1",
+      "bytes": 3127,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/SITE_VALIDATION_REPORT.md",
+      "sha256": "7a529159bb5de450885e7cc4fb65fcdbad9346e494a7131165d6307652b9997b",
+      "bytes": 1361,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_analysis_feedback.py",
+      "sha256": "6d97f97e5cd86c6e6138a730907f2f15576a2a138ce02885e810842b881a0191",
+      "bytes": 2093,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_capture_sync.py",
+      "sha256": "7ca421bcb5ab6fed95d5a1f77f7214ebc12ce21523f55e93c6ce6fb120cbb1db",
+      "bytes": 2379,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_control_panel_action.py",
+      "sha256": "b04e5fea7ac90310641dfa89f44c7210120b82c2062f5df7ebf82498b561b357",
+      "bytes": 4705,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_control_panel.py",
+      "sha256": "ea507e7aaf32066523309ed7d597d9668a663bd45d23588cdc316717d8352e50",
+      "bytes": 7398,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "task_B/test_record_observation.py",
+      "sha256": "d4bf6f2c6551e8ae0e9ebd296770778d02d55b81fe4a819ccc1a96c94e07849a",
+      "bytes": 1187,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/TEST_REPORT.md",
+      "sha256": "985b3188a957539c58dfb5193911a0471f0478e279b78f66c5f9fb5b6dd7b00d",
+      "bytes": 1768,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_rgbd_candidate.py",
+      "sha256": "5fd4f31f779b8605ef5c430dc61675da295426e18b2d632dbc933dcc76d231b5",
+      "bytes": 6343,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/test_task_b.py",
+      "sha256": "cdb8ed0fb25c7510d20be3d298038a28758eca1c4e7efd31f4575502c3aaa801",
+      "bytes": 20522,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/verify_offline.py",
+      "sha256": "5cb23cb48bcdfa0bd60216e5faa3b3e28fb222cd133cca7c500143d4dd665bba",
+      "bytes": 2214,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/VISION_ONLY_GUIDE.md",
+      "sha256": "4297fb7a5ddd0a2443005683513c9462656abef561dc1c5f1a440fd5e36c767c",
+      "bytes": 1731,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/vision.py",
+      "sha256": "cedc0e41246468713f59febbe5409734bb4dc51b3922d4d6094661ff2a23c11c",
+      "bytes": 7359,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/control_panel/index.html",
+      "sha256": "46fdc82bb65a5fdeb955fe1d57fe347ff2e0da0b27066b41a61c50576a04126e",
+      "bytes": 11417,
+      "status": "unchanged"
+    },
+    {
+      "path": "task_B/scenarios/retry_then_absent.json",
+      "sha256": "a008fdd900ee42fcb450ac415cdd600527faafef115d2f84e7cb0c5d0eea0e61",
+      "bytes": 777,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/configs/__init__.py",
+      "sha256": "2609506ac4e75b6707ce66d7c8be951d31fdd964102ed8555ace7d0bfc6a3fae",
+      "bytes": 487,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/configs/calibration.example.json",
+      "sha256": "801dec6b563d12d114e94ff9ed65f9dcd88fd532b89111859e50776b52fddcbb",
+      "bytes": 491,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "camera/configs/grasp_down.example.json",
+      "sha256": "cd419d1b8368ce5a958ec2cd44ec2e3921eca72cb8e237fbc7eaf69d6e598e91",
+      "bytes": 752,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "camera/configs/handeye.json",
+      "sha256": "1f6ba372ce07942dd6fdbb47962e26b68a2947489d671fd9ec9fac88cbbc8660",
+      "bytes": 1031,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "camera/coordinate_transform/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/estun_math.py",
+      "sha256": "8864fb7ee72c3b37826aeb6f57cde2e91eb5c9c2aad018f0bb83a69cf5412f8e",
+      "bytes": 3171,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/geometry.py",
+      "sha256": "07c449b0f298dda4706ce8dc4a1d17b68b8f8b29e56acb0d3694a06e7b89e524",
+      "bytes": 9493,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/math_provenance.json",
+      "sha256": "e85a0d223cfd4b45aa9eddb27f4b17f465533bc4fa14173a8361b763a07597cf",
+      "bytes": 641,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/pose_ranges.py",
+      "sha256": "2dc60302cb2db06eaa4a19ddf76a0399a3e02e6c7ae373a0f5beead8267c8896",
+      "bytes": 489,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/README.md",
+      "sha256": "680a68214fcec7297e9eaf2a3d6d37f6d5f117a013530742002fb23d6d4ddb54",
+      "bytes": 859,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/recorded_check.py",
+      "sha256": "aaf4ce3b93b83e2722dcf0879476a5c3fdbb01818eec0855d68fa9752d91735c",
+      "bytes": 2888,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/coordinate_transform/target.py",
+      "sha256": "2f46b3f98ef87e4a6f0799ddccf77537faf3fe36f656b2724df2443467d67857",
+      "bytes": 4177,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/__init__.py",
+      "sha256": "85557d70dff7daafd86330c1a0eb24bca644902d6dd3222a13d31d278ec46bfc",
+      "bytes": 64,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/calibration.py",
+      "sha256": "6658833fe69a7380cb500b59c79203fd8b09138aa7e5258ae3413113d5a068f1",
+      "bytes": 8964,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/capture.py",
+      "sha256": "6e4cdf7aaf0d8d2506668c897b6e9fa29861f76d64af885cca2f0605f4caf54c",
+      "bytes": 17800,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/cli.py",
+      "sha256": "2080a1be8ecffdebfa4f64a3377cfd6565326b2022f12ab9eb0e9326270d690c",
+      "bytes": 5254,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/README.md",
+      "sha256": "aae76fb52b92d4e00f8ab8281a23fd76d22061c1f85eaa2d8af4f6b51b10de53",
+      "bytes": 591,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/handeye_calibration/session.py",
+      "sha256": "5d7b29f4fe745240e203cbc0a2c78799e36fa3f5e22687d83e3643ba961c3ade",
+      "bytes": 1993,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/tests/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/tests/test_grasp_candidate.py",
+      "sha256": "cf34b8552b12cddbd3a9c4c9b24f294f4da0f825ae2304c19ce9d047b08dc527",
+      "bytes": 7292,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "camera/tests/test_pipeline.py",
+      "sha256": "e13d729837d9f3f34a4f30f5505aa5e48c33b642cf0f08a917f9968142f2b94c",
+      "bytes": 16542,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/tests/test_portability.py",
+      "sha256": "76c69b5017c1bd19d141569404a59e4456ce5c7a51f035143d914154d70d91c7",
+      "bytes": 856,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/docs/grasp_candidate.md",
+      "sha256": "7ec1adf0b60a3742edefb4e31fdfa3af7b961a9b1f2caf51607367b8d6f95cca",
+      "bytes": 4558,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/docs/provenance.md",
+      "sha256": "6b7aaaeee6723aa9d57cbba64fb193fbf77b27e8d6e007c5539fd21527c6954d",
+      "bytes": 887,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/docs/usage.md",
+      "sha256": "8272ecea4f744f24175f820241208ba421feee17bf956eeb3b57125f9085f7a1",
+      "bytes": 4872,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/docs/validation_2026-10-23.md",
+      "sha256": "89a7d383e69ba71775698a3f922f56bdaf382f712d3e8c31af970547285f4670",
+      "bytes": 1428,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/codroid_msgs/CMakeLists.txt",
+      "sha256": "a4dcb74dfb06e8c4ec5d8d7289b19d7d3c045e5c4a6aca00d1ce58f6328cb1c8",
+      "bytes": 1073,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/codroid_msgs/package.xml",
+      "sha256": "b89a2945d42bfe85c14f5add755eca071e3ede4bfb619eef8eacd0fc0dc40869",
+      "bytes": 848,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/codroid_msgs/msg/RobotInfo.msg",
+      "sha256": "2a93605a338cf41cfcb604ede46d14f3ab86f1c7d3d40ebfdde11dd3da0c067e",
+      "bytes": 663,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/package.xml",
+      "sha256": "f56dc700bcde3ee16efcf83e9c853493769f9d660d04ba1dc7c90c9e6229fb5a",
+      "bytes": 538,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/setup.cfg",
+      "sha256": "3a9cde9fc0b5373e909cdc1aed667e9e6e4fcce8d6c6040733d2839a59b5e01e",
+      "bytes": 99,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/setup.py",
+      "sha256": "fa07000aca0258612b7a9498ef0b751f690ddd04906e8cad37241a22d34d3449",
+      "bytes": 522,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/config/target.json",
+      "sha256": "1fe385505569310f3ec88b8ec2cab8a91c6591e6d7c7c8c2660df9b1ea0d3ade",
+      "bytes": 126,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/estun_segmented/__init__.py",
+      "sha256": "1d90fcb9f0c4697ffd7df93055a6825c92cd83030a1ddba6259b530fd03031ba",
+      "bytes": 61,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/estun_segmented/bridge.py",
+      "sha256": "513e7ee545382c492a561dd586a78d797a16a4bd7df28bc9fc146f82db8d44f6",
+      "bytes": 6193,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/estun_segmented/core.py",
+      "sha256": "9dd5f3f8ce451bce1c727d3a7d649967c5b862fc1732e76f52f7c585207e5327",
+      "bytes": 7791,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/estun_segmented/runner.py",
+      "sha256": "9de2591911b822f1fd4cbf4b194890c3b493e4c0f7aee0bc0b5e5f8fc46db1c9",
+      "bytes": 15720,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/estun_segmented/wire.py",
+      "sha256": "fb0e4606eb44dcdb496f95e8e2c217e0078483169be30a685593e3a563ecc450",
+      "bytes": 1826,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/ros2_ws/src/estun_segmented/resource/estun_segmented",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/LICENSE",
+      "sha256": "07c9ab2cb2f94910251acb959dfbfa902ef9114953cc128716c76b6d757aec85",
+      "bytes": 1082,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/package.xml",
+      "sha256": "3075d429d7763bf3d9ef05542fcefd2c671244da281b0d736abe4f335ca8a0e9",
+      "bytes": 835,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/setup.cfg",
+      "sha256": "4d88d9114df2fe688b2bff3f471d20bd9f4c64a5e7027ed07c6c1d8724267a93",
+      "bytes": 123,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/setup.py",
+      "sha256": "49d7cb8304df7a5af03cc7cf73797ea027dd42956ccf0e9531e18bb8417cb899",
+      "bytes": 899,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/config/gripper.yaml",
+      "sha256": "91f823e51166ef69b03ec0812b147ad9a1979c05e3e160d12c101a1d6afb0b28",
+      "bytes": 453,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/launch/gripper.launch.py",
+      "sha256": "82b6319133a0d1421386268c8068b379525ee23dccf06e40ccb2f49dd72f167e",
+      "bytes": 1798,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/ms42_gripper/__init__.py",
+      "sha256": "0d800f8bd94cfad68e21372bcdcfb4762221a32b4c8a7c484a8ddab1982ec203",
+      "bytes": 43,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/ms42_gripper/cli.py",
+      "sha256": "cbb38a3eb7428a3430ebb53a8c3d83c6be3b4928d01a3080d7881aa0e5b1832d",
+      "bytes": 1025,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/ms42_gripper/client.py",
+      "sha256": "7c2f03b59c03e036e42b71b88351dc2c41cd7af19428f12d799862554da2d6f2",
+      "bytes": 4318,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/ms42_gripper/node.py",
+      "sha256": "5733652cd4de12b54ae22f8908f6649a558cf1c8e0299d95fb1d764913b694a9",
+      "bytes": 7795,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/ms42_gripper/protocol.py",
+      "sha256": "ad1dc683456b6c5cd9a0f881a5d9a602c52b404d2a85656bc4ed8f3664f316f9",
+      "bytes": 3507,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/resource/ms42_gripper",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/test/test_client.py",
+      "sha256": "ca074af46e0f97073f5dddc5c562547750fc37e6e57df636641346b6732aab5f",
+      "bytes": 5118,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/test/test_protocol.py",
+      "sha256": "e0ffc998502c89b277209eec7c69382f6a22082d68f83cb5b9672b405613bf1e",
+      "bytes": 4365,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper/test/test_ros_services.py",
+      "sha256": "bc0068e3bde52f79449c4a27a97fca4a1624010208b303f3a5c70f1f80f3c8dd",
+      "bytes": 2929,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper_interfaces/CMakeLists.txt",
+      "sha256": "1392dcbb6bf0f2581e84e7e952d104d2300e9be0e365d5971f211f62c8be4a9a",
+      "bytes": 419,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper_interfaces/LICENSE",
+      "sha256": "07c9ab2cb2f94910251acb959dfbfa902ef9114953cc128716c76b6d757aec85",
+      "bytes": 1082,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper_interfaces/package.xml",
+      "sha256": "0bfdeb23e215ece3396749ef1f6c6a7045357fb1c89248a0aa2b88c7b7f3e2a6",
+      "bytes": 618,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper_interfaces/msg/GripperState.msg",
+      "sha256": "e116adb679897b352541eb481e0cbedba70f957ee27efec38e1b06ab4f76f4ef",
+      "bytes": 215,
+      "status": "unchanged"
+    },
+    {
+      "path": "jia/ros2_ws/src/ms42_gripper_interfaces/srv/Move.srv",
+      "sha256": "e49bcc3729b963b78b42e3ce90523d50c1c0c4508e1e24f1c3ae3c603b62cb36",
+      "bytes": 234,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/grasp_candidate.py",
+      "sha256": "e18eecc2a3807ad98470b77e8fb1cc715285b448b4f2e7cd8f7356cb81996451",
+      "bytes": 13151,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/candidate_pipeline.py",
+      "sha256": "ba24878573058b6b0b4f4e8ec366f88ce55395ee8cc0c07e76db8eeaae1c82bf",
+      "bytes": 2695,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/candidate_cli.py",
+      "sha256": "b55e53cc6b04dc32efe95c7a40a6d1bb63d286b15d2205bed9f1785271a8a8b0",
+      "bytes": 6241,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/adapters.py",
+      "sha256": "e185a9afdf5da97e09ea3f4f62999b7693c21457ccc830c921060a470de89705",
+      "bytes": 476,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/vision_center/README.md",
+      "sha256": "0eb5e166196674feb47ed1394fbd5e7a728b3bded31847761d8282a33b382ab2",
+      "bytes": 978,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/scripts/camera_env.sh",
+      "sha256": "b9e45bdb41fefd9262dc0e175edae4887cc86894bf4a07200de7055f568726c0",
+      "bytes": 307,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/scripts/handeye_env.sh",
+      "sha256": "8e34a35944c2913e1674ee95b743afb37afee1e14ff0ad406ac47f4f086efcef",
+      "bytes": 398,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/scripts/run_camera.sh",
+      "sha256": "0efa40ba915d0e466868d7d170d49ab1b30a65c4ace9d8024f45ab2ece4207d2",
+      "bytes": 697,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/scripts/build_camera.sh",
+      "sha256": "f3ef4987879d1f68073fa5f1c2cd090f63a94911e883bb75665f9fb24f5db5e9",
+      "bytes": 339,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/pyproject.toml",
+      "sha256": "a4b23d3ff7aa0e567d02507b998ef001b191ee5a41daf6c0332bff5ff22c6bdc",
+      "bytes": 627,
+      "status": "unchanged"
+    },
+    {
+      "path": "camera/README.md",
+      "sha256": "cdde0b7702ba7d36e6db85522fcd2b79dafa505f3ebbeeeaa57ce0715be9a9b7",
+      "bytes": 2843,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/build.sh",
+      "sha256": "a431f33b8423f73104167c12a11e796842c255bbc74e426bbcc8ddcc1640114f",
+      "bytes": 304,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/README.md",
+      "sha256": "39076ff9786c42928a5b82c5c6e24f8127e6910a8e32a37d54c7a7633a4c4f4b",
+      "bytes": 15694,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "estun/windows_feedback_relay.py",
+      "sha256": "2a1f6c51907cf486cd2f110bdb11c86b39a421d0c80614a39b90fe4a554da507",
+      "bytes": 2013,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "estun/estun_ros2_control/THIRD_PARTY.md",
+      "sha256": "be7dc4112dc920ec3c0a6166547530b4d527de3b2a876f84b8f93c552a287c57",
+      "bytes": 738,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/tests/test_motion.py",
+      "sha256": "f3da52e1c7869c510eb18bc20d1c8f9333ff86edf99782991a1baa0492a68d72",
+      "bytes": 14642,
+      "status": "unchanged"
+    },
+    {
+      "path": "estun/official/codroid_bridge/codroid_node/codroid_io.py",
+      "sha256": "a033b3b92ca4f00470f973b99a4214341d9fe835045b0b80f0e1b4999eeb2945",
+      "bytes": 2335,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "jia/ros2_ws/README.md",
+      "sha256": "d20a33fb89e0e8d42c6e97ce2def3d5a60748ac7c1571a9592c615c37c541923",
+      "bytes": 15616,
+      "status": "sanitized_for_public_export"
+    },
+    {
+      "path": "try/run_pick.py",
+      "sha256": "1b88c3147124bdbe4727dd5e3bedd2ca54c51de35d05e51387d37f5b55c53d49",
+      "bytes": 6324,
+      "status": "unchanged"
+    },
+    {
+      "path": "try/pick_targets.json",
+      "sha256": "a3de99ee47d2c8f29a5af01a5f0bc927b1f9bb3a52f89430fcbc443c415a5f4e",
+      "bytes": 128,
+      "status": "unchanged"
+    },
+    {
+      "path": "try/tests/test_pick.py",
+      "sha256": "caf1cee60c3f6ad375d01dd4537d19af97f94b41111665bb3c9945307ba80576",
+      "bytes": 7603,
+      "status": "unchanged"
+    }
+  ]
+}

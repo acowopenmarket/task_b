@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "status": "unvalidated_template",
+  "heldout_consistency_verified": false,
+  "real_accuracy_verified": false,
+  "validation_scope": "Template only. Collect and validate a calibration on your installation.",
+  "convention": {
+    "name": "codroid_fixed_XYZ_RzRyRx",
+    "sha256": "95bc099e458ad8013bc96f2c13918feedc0cb6cd0bed4a51425b27b0c1e9a6d6"
+  },
+  "camera_frame": "camera_color_optical_frame",
+  "camera_info": null,
+  "T_flange_camera": null
+}

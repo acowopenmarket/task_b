@@ -1,0 +1,8 @@
+# Relative motor travel in position mode 0x02. True closes; false opens.
+bool close
+float64 angle_deg
+float64 speed_rad_s
+---
+# True means the frame was written (or logged in dry-run), NOT motion complete.
+bool success
+string message

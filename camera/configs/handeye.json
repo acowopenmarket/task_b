@@ -1,0 +1,38 @@
+{
+  "board": {
+    "inner_columns": 11,
+    "inner_rows": 8,
+    "square_size_m": 0.02
+  },
+  "camera_frame": "camera_color_optical_frame",
+  "robot_pose_frame": "flange",
+  "robot_core": null,
+  "flange_to_gripper_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "offset_direction_confirmed_by_user": false,
+  "min_flange_z_m": 0.213,
+  "grasp_rpy_rad": [
+    -3.141592653589793,
+    0.0,
+    0.0
+  ],
+  "grasp_orientation_operator_confirmed_for_calculation": false,
+  "gripper_offset_physically_verified": false,
+  "grasp_point_selection": "measured_top_surface_center",
+  "grasp_orientation_motion_verified": false,
+  "max_reprojection_px": 0.8,
+  "max_sync_sec": 0.05,
+  "max_robot_age_sec": 0.2,
+  "max_image_age_sec": 0.5,
+  "settle_window_sec": 0.8,
+  "settle_translation_m": 0.0005,
+  "settle_rotation_rad": 0.0017453292519943296,
+  "min_training_poses": 15,
+  "min_validation_poses": 5,
+  "max_validation_rms_m": 0.002,
+  "max_validation_error_m": 0.005,
+  "max_validation_rotation_deg": 0.5
+}

@@ -1,0 +1,3 @@
+numpy>=1.24
+opencv-python-headless>=4.8,<5
+# Hardware additionally uses the existing ROS2 Humble workspaces and pyserial.

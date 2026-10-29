@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "s3-gemini-camera-tools"
+version = "0.1.0"
+description = "Read-only RGB-D, eye-in-hand calibration, and flange target calculation for S3-60 Pro + Gemini 335"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.21,<2", "opencv-python>=4.5.4,<4.12"]
+
+[project.scripts]
+camera-handeye = "handeye_calibration.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["coordinate_transform*", "handeye_calibration*", "vision_center", "configs"]
+
+[tool.setuptools.package-data]
+coordinate_transform = ["*.json"]
+configs = ["*.json"]

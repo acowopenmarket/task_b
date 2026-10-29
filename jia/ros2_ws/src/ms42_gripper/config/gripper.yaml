@@ -1,0 +1,16 @@
+/**:
+  ros__parameters:
+    port: /dev/ttyACM0
+    baudrate: 115200
+    motor_id: 1
+    subdivision: 32
+    # Manual USB full-open/full-close example: 1872 motor degrees at 20 rad/s.
+    # Verify the travel matches the actual gripper/firmware before hardware use.
+    travel_turns: 5.2
+    speed_rad_s: 20.0
+    max_speed_rad_s: 20.0
+    poll_hz: 5.0
+    feedback_timeout_s: 0.1
+    feedback_stale_s: 1.0
+    reconnect_interval_s: 2.0
+    dry_run: true

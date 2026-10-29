@@ -1,0 +1,10 @@
+[
+  {"presence":"PRESENT","localizable":true,"top_valid":true,"candidate_base_m":[0.4,0,0.06],"z_top":0.11},
+  {"presence":"PRESENT","localizable":true,"top_valid":true,"candidate_base_m":[0.4,0,0.06],"z_top":0.11},
+  {"presence":"PRESENT","localizable":false,"top_valid":false,"reason":"复查仍在，先松爪"},
+  {"presence":"PRESENT","localizable":false,"top_valid":false,"reason":"复查仍在，先松爪"},
+  {"presence":"PRESENT","localizable":true,"top_valid":true,"candidate_base_m":[0.42,0.01,0.065],"z_top":0.115},
+  {"presence":"PRESENT","localizable":true,"top_valid":true,"candidate_base_m":[0.42,0.01,0.065],"z_top":0.115},
+  {"presence":"ABSENT","reason":"有效观察未检测到目标"},
+  {"presence":"ABSENT","reason":"有效观察未检测到目标"}
+]

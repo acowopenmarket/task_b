@@ -1,0 +1,93 @@
+{
+  "units": "robot_base_m_rad",
+  "observation_pose": null,
+  "box": {
+    "rim_z_m": null
+  },
+  "grasp_rpy_rad": [
+    -3.141592653589793,
+    0.0,
+    0.0
+  ],
+  "flange_to_gripper_m": null,
+  "max_insert_depth_m": 0.044,
+  "min_flange_z_m": null,
+  "safety": {
+    "clearance_m": 0.03,
+    "workspace_bounds": null,
+    "max_capture_age_s": 10.0
+  },
+  "vision": {
+    "frames": 3,
+    "confirm_bursts": 2,
+    "timeout_s": 30.0,
+    "capture_timeout_s": 8.0,
+    "max_sync_s": 0.05,
+    "max_image_age_s": 0.5,
+    "max_robot_age_s": 0.2,
+    "min_depth_points": 30,
+    "top_local_span_m": 0.006,
+    "top_temporal_span_m": 0.006,
+    "settle_translation_m": 0.0005,
+    "settle_rotation_rad": 0.0017453292519943296,
+    "depth_layer_m": 0.012,
+    "rgb_depth_min_iou": 0.6,
+    "min_depth_separation_m": 0.004,
+    "min_object_area_ratio": 0.001,
+    "target_temporal_span_m": 0.006,
+    "source_clearance_depth_m": 0.015
+  },
+  "max_extra_retries": 2,
+  "motion": {
+    "linear_speed": 0.05,
+    "angular_speed": 0.3141592653589793,
+    "linear_accel": 0.02,
+    "angular_accel": 0.08726646259971647,
+    "position_tolerance": 0.0005,
+    "angle_tolerance": 0.008726646259971648,
+    "feedback_timeout": 0.5,
+    "accept_timeout": 3.0,
+    "segment_timeout": 120.0,
+    "settle_seconds": 0.2,
+    "settle_samples": 3
+  },
+  "hardware": {
+    "controller_ip": "192.0.2.10",
+    "feedback_source_ip": "198.51.100.1",
+    "bind_ip": "0.0.0.0",
+    "ros_domain_id": 42,
+    "camera_script": "../camera/scripts/run_camera.sh",
+    "calibration_path": "../camera/local/calibration.json",
+    "gripper_port": "/dev/serial/by-id/REPLACE_WITH_YOUR_DEVICE",
+    "topics": {
+      "color": "/camera/color/image_raw",
+      "depth": "/camera/depth/image_raw",
+      "ci": "/camera/color/camera_info",
+      "di": "/camera/depth/camera_info",
+      "robot": "/RobotInfo"
+    },
+    "gripper": {
+      "baudrate": 115200,
+      "motor_id": 1,
+      "subdivision": 32,
+      "travel_rad": 32.67256359733385,
+      "speed_rad_s": 20.0,
+      "max_speed_rad_s": 20.0,
+      "poll_hz": 5.0,
+      "feedback_timeout_s": 0.1,
+      "feedback_stale_s": 1.0,
+      "reconnect_interval_s": 2.0
+    },
+    "gripper_action_timeout_s": 15.0,
+    "gripper_min_wait_s": 0.5,
+    "gripper_stable_samples": 3
+  },
+  "confirmed": {
+    "site_network_and_serial": false,
+    "calibration_mount_unchanged": false,
+    "gripper_offset_and_travel": false,
+    "observation_release_receiver": false,
+    "whole_source_visible": false,
+    "box_and_collision_clearance": false
+  }
+}

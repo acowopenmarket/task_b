@@ -1,0 +1,16 @@
+{
+  "original_sha256": "95bc099e458ad8013bc96f2c13918feedc0cb6cd0bed4a51425b27b0c1e9a6d6",
+  "bundled_sha256": "8864fb7ee72c3b37826aeb6f57cde2e91eb5c9c2aad018f0bb83a69cf5412f8e",
+  "source_project": "Existing S3-60 Pro estun_segmented/core.py in the user workspace",
+  "copied_symbols": [
+    "Segment",
+    "Settings",
+    "command",
+    "euler_near",
+    "finite",
+    "quaternion"
+  ],
+  "reference": "Codroid S series V1.0 section 9.2, PDF p125 / printed p107",
+  "reference_url": "https://www.codroid.ai/download/shouce/v1107.pdf",
+  "math_ast_sha256": "452c1b31d86ab3778f61f88485583d11ba8efbc543b7cf0d620b0c0310765af6"
+}

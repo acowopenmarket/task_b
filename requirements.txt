@@ -1,0 +1,3 @@
+-r task_B/requirements.txt
+pyserial>=3.5
+PyYAML>=6

@@ -1,0 +1,24 @@
+{
+  "grasp_rpy_rad": [
+    -3.141592653589793,
+    0.0,
+    0.0
+  ],
+  "convention": {
+    "name": "codroid_fixed_XYZ_RzRyRx",
+    "sha256": "95bc099e458ad8013bc96f2c13918feedc0cb6cd0bed4a51425b27b0c1e9a6d6",
+    "official_reference": "Codroid S series manual V1.0 section 9.2, PDF p125 / printed p107"
+  },
+  "operator_confirmed_for_calculation": false,
+  "gripper_offset_physically_verified": false,
+  "motion_verified": false,
+  "flange_to_gripper_m": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "jaw_mode": "two_finger_side_closing",
+  "yaw_policy": "fixed_at_user_specified_zero",
+  "source": "Generic example. Measure the flange-to-gripper offset for your installation.",
+  "grasp_point_selection": "measured_top_surface_center"
+}
